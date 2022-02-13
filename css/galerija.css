@@ -1,0 +1,52 @@
+#kartica{
+    background-color: #6cb9d3;
+    box-shadow: #5cb1ce 1px 5px 5px 5px;
+    overflow: hidden;
+    background-image: url('../images/likes.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
+button{
+background-color: #6cb9d3;
+
+}
+.fa-twitter{
+    color: #68c8ff;
+}
+.fa-whatsapp{
+    color: greenyellow;
+}
+.fa-pinterest-p{
+    color: rgb(80, 19, 19);
+}
+.fa-linkedin-in{
+    color: rgb(103, 103, 255);
+}
+.fa-google{
+    color: rgb(50, 50, 156);
+}
+
+.carousel-control-next-icon{
+ 
+    width: 10%;
+    height: 4%;
+    outline: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+  
+    background-color: black;
+  
+}
+.carousel-control-prev-icon{
+ 
+    width: 10%;
+    height: 4%;
+    outline: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+  
+    background-color: black;
+  
+}

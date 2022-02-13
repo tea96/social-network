@@ -1,0 +1,105 @@
+
+
+#drugidivOautorima  {
+
+    overflow: hidden;
+    background-color:#c1e1ec;
+    opacity: 0;
+    margin-top: 0%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.kartica{
+    border-radius: 100px;
+}
+img{
+    border-radius: 30px;
+}
+#prvidiv{
+    max-width: 95%;
+}
+#prvakartica1{
+    min-width: 300px;
+    min-height: 300px;
+}
+#ceoprvi{
+width: 0px;
+height: 0px;
+opacity: 0;
+overflow: hidden;
+
+
+}
+#ceodrugi{
+width: 0px;
+height: 0px;
+opacity: 0;
+overflow: hidden;
+
+
+}
+#ceotreci{
+width: 0px;
+height: 0px;
+opacity: 0;
+overflow: hidden;
+
+
+}
+
+#ceocetvrti{
+width: 0px;
+height: 0px;
+opacity: 0;
+overflow: hidden;
+
+
+}
+.deoprvog{
+    background-color:#c1e1ec;
+    margin-bottom: 3%;
+  
+    
+}
+.dodatni{
+background-color: #c1e1ec;
+    overflow: hidden;
+}
+
+
+#slikakartice4{
+
+    background-image: url('../images/autori/ja.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+
+}
+#slikakartice1{
+
+    background-image: url('../images/autori/teodora.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slikakartice2{
+
+    background-image: url('../images/autori/valentina.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+#slikakartice3{
+
+    background-image: url('../images/autori/antonina.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+ul{
+    list-style-type: none;
+}

@@ -1,0 +1,33 @@
+#prvakartica{
+    background-image: url('../images/pocetna.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size: 20px;
+    color: black;
+}
+#slika1{
+    opacity: 0;
+   width: 100%;
+    height: 0%;
+}
+h1{
+    color: rgb(23, 20, 54);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    line-height: 1;
+    text-shadow:rgb(245, 245, 245) 3px 2px 0;
+    margin: auto;
+}
+img{
+    border-radius: 30px;
+}
+
+#blok{
+    width: 95%;
+}

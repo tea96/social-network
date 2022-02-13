@@ -1,0 +1,44 @@
+body{
+    background-color: #c3edfc;
+}
+
+
+/* .red{
+     width: 95%; 
+} */
+p{
+    font-family: Arial, Helvetica,sans-serif;
+    text-align: justify;
+}
+
+nav{
+    background-color: #203354;
+}
+.page-footer{
+    background-color: #203354;
+    
+}
+
+
+#onTopBtn {
+    display: none;
+    position: fixed; 
+    bottom: 10%; 
+    right: 10px; 
+    z-index: 99;
+    background-color: #006bb3; 
+    color: white; 
+    cursor: pointer; 
+    padding: 10px; 
+    border-radius: 15px; 
+    font-size: 18px;
+  } 
+  
+  #onTopBtn:hover {
+    background-color: #004d80; 
+  }
+
+  h1{
+  
+    font-family: Arial, Helvetica, sans-serif;
+}
